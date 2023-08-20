@@ -7,7 +7,7 @@ Installation
 Before running the application, make sure you have the following prerequisites:
 
 Node.js and npm installed on your machine.
-A running backend server that exposes the required API endpoints.
+
 Follow these steps to set up and run the application:
 
 1. Clone this repository to your local machine:   ```git@github.com:TomsBirze/Bookstore-UI.git```
