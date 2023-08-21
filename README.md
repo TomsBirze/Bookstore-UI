@@ -1,4 +1,4 @@
-# Bookstore frontend useing Vite
+# Bookstore frontend useing Vite + Vue.js
 
 Vue.js Bookstore Application
 This is a simple Vue.js application that allows you to view a list of books and add new books to the bookstore. It communicates with a backend server to fetch the list of books and add new books.
